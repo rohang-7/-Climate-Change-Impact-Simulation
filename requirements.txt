@@ -1,0 +1,28 @@
+# Core Data & Analysis Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Geospatial & Mapping
+geopandas
+folium
+shapely
+
+# Machine Learning & Clustering
+scikit-learn
+
+# Time Series Forecasting
+prophet
+
+# API Requests & Utilities
+requests
+
+# Interactive / Notebooks
+ipykernel
+jupyter
+
+# For Future work
+plotly
+streamlit
+openpyxl

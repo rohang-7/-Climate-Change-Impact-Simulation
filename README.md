@@ -1,3 +1,5 @@
+![Climate Impact Simulation Banner](https://github.com/rohang-7/Climate-Change-Impact-Simulation/blob/main/Cluster%20Map.png?raw=true)
+
 #  Climate Change Impact Simulation (Melbourne, Australia)
 
 This project analyzes real-time and historical weather data to simulate and visualize the **impact of climate change in Melbourne**.  
